@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Gupta</h1>
-<h3 align="center">A passionate full stack developer from India. and i also know cyber security and blockchain.</h3>
+<h3 align="center">A passionate MERN stack developer from India. and i also know cyber security and blockchain.</h3>
 
 <video width="320" height="240" controls>
   <source src="C:\Users\nites\Downloads\Programmer.mp4" type="video/mp4">
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh-raunak" alt="nitesh-raunak" /></a> </p>
 
-- 🔭 I’m currently working on **eAUCTION website**
+- 🔭 I’m currently working on **SevaLink Healthcare Plateform**
 
-- 🌱 I’m currently learning **ADVANCE JAVA TECHNOLOGY AND FRAMEWORK**
+- 🌱 I’m currently learning **Agentic AI with MERN project and AI/ML**
 
 - 👯 I’m looking to collaborate on **software company**
 
@@ -19,11 +19,11 @@
 
 - 📝 I regularly write articles on [GuptaBlog.com](GuptaBlog.com)
 
-- 💬 Ask me about **JAVA , C ,ADVANCE JAVA ,FRAMEWORK**
+- 💬 Ask me about **JAVA , C ,MERN,Agentic AI,CyberSecurity**
 
 - 📫 How to reach me **niteshkumarsah401440@gmail.com**
 
-- ⚡ Fun fact **I am funny and book readers.**
+- ⚡ Fun fact **I am funny and book readers and business seekers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
