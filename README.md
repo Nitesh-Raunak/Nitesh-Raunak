@@ -15,9 +15,7 @@
 
 - 👯 I’m looking to collaborate on **software company**
 
-- 👨‍💻 All of my projects are available at [my blogs website](my blogs website)
-
-- 📝 I regularly write articles on [GuptaBlog.com](GuptaBlog.com)
+- 👨‍💻 All of my projects are available at [my blogs website]https://portfolio-nitesh-live.vercel.app/
 
 - 💬 Ask me about **JAVA , C ,MERN,Agentic AI,CyberSecurity**
 
