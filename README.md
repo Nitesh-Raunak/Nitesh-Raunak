@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitesh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Nitesh Kumar Sah</h1>
 
 <h3 align="center">
 Backend-focused Developer building scalable real-time systems
