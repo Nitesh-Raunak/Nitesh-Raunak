@@ -1,36 +1,49 @@
 <h1 align="center">Hi 👋, I'm Nitesh Gupta</h1>
 
 <h3 align="center">
-Backend-focused MERN Developer building real-world systems
+Backend-focused Developer building scalable real-time systems
 </h3>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I focus on building **scalable backend systems using MERN stack**
-- 🏥 Currently building **SevaLink** — a real-time healthcare emergency coordination platform
-- 🧠 Learning **system design, real-time architecture, and applied AI**
-- 🎯 Goal: Become a strong **backend engineer who builds reliable systems**
+- 💻 Backend-focused developer working with **Node.js, NestJS, and databases**
+- 🏥 Currently building **SevaLink** — a real-time ambulance coordination platform
+- 🧠 Interested in **system design, real-time architecture, and scalable backend systems**
+- 🎯 Goal: Become a strong backend engineer solving real-world problems
 
 ---
 
-### 🛠️ Tech Focus
+### 🛠️ Tech Stack
 
-- **Backend:** Node.js,NestJs Express.js
-- **Database:** MongoDB, MySQL ,Postgres
-- **Frontend (working knowledge):** React.js,Nextjs
-- **Core Concepts:** REST APIs, Authentication, Real-time systems, System Design
+- **Backend:** Node.js, Express.js, NestJS  
+- **Database:** PostgreSQL, MongoDB  
+- **Frontend (working knowledge):** React.js, Next.js  
+- **Tools:** Git, Firebase, Supabase, Postman  
 
 ---
 
-### 🔥 Current Project
+### 🔥 Projects
 
-#### **SevaLink – Emergency Healthcare Platform**
-- Real-time ambulance booking and tracking
-- Hospital discovery based on location and availability
-- Priority-based emergency handling
-- Multi-user system (Patient, Driver, Hospital, Admin)
+#### 🏥 SevaLink – Emergency Ambulance Coordination Platform
+- Built a full-stack system using **Next.js, NestJS, PostgreSQL, Firebase**
+- Designed **REST APIs** for multi-role system (patients, drivers, admin)
+- Implemented **real-time ambulance tracking and status updates**
+- Focused on **scalability and low-latency communication**
+
+#### 📍 CAEVS – Context-Aware Attendance System
+- Developed smart attendance system using **Flutter + Firebase**
+- Implemented **validation logic to reduce proxy attendance**
+- Used **Cloud Functions for backend processing**
+
+---
+
+### 🎓 Education
+
+- B.Tech in Computer Engineering  
+  Marwadi University, Gujarat  
+  CGPA: 9.22  
 
 ---
 
@@ -42,11 +55,11 @@ Backend-focused MERN Developer building real-world systems
 
 ### 📫 Contact
 
-- 📧 niteshkumarsah401440@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/nitesh-kumar-16013931a
+- 📧 niteshkumarsah401440@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/nitesh-kumar-16013931a  
 
 ---
 
 ### ⚡ Note
 
-I believe in **depth over hype** — focusing on building strong fundamentals and real systems rather than chasing multiple technologies.
+Focused on building **real systems with strong fundamentals** rather than exploring too many technologies superficially.
